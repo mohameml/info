@@ -1,4 +1,4 @@
-# Binvenue dans l'apprentisasge des langage de programmation :
+# **Bienvenue dans l'apprentissage des langages de programmation :**
 
 
 ## 1. [Python](https://github.com/mohameml/Python)
