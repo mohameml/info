@@ -32,3 +32,20 @@
 - **lien:**
     
     <a href="https://github.com/mohameml/info/tree/main/02_info_th%C3%A9orique" target="_blank" rel="noreferrer">informatique théorique</a>
+
+
+## 3. [Systèmes Informatiques](03_Systèmes_Informatiques/)
+
+- **Déscription:**
+    
+    -  Cette branche se concentre sur la conception, la mise en œuvre, la gestion et l'optimisation des systèmes informatiques complets, y compris le matériel, le logiciel, et les systèmes d'exploitation.
+
+    - *Systèmes Informatiques:* Ce répertoire contient des cours sur l'architecture, la conception des processus et les systèmes d'exploitation (OS) ,  des cours sur le langage de conception de circuits numériques VHDL ainsi que sur le langage assembleur.
+
+
+- **lien:**
+    
+    <a href="03_Systèmes_Informatiques/" target="_blank" rel="noreferrer">Systèmes Informatiques</a>
+
+
+

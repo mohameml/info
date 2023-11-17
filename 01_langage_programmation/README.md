@@ -1,4 +1,4 @@
-# **Bienvenue dans l'apprentissage des langages de programmation :**
+# **Bienvenue dans l'apprentissage de programmation :**
 
 
 ## 1. [Python](https://github.com/mohameml/Python)
@@ -53,7 +53,7 @@
 <a href="https://github.com/mohameml/assembleur" target="_blank" rel="noreferrer"> <img src="../.images/assembly.svg" alt="c" width="40" height="40"/> </a>
 
 
-## 11.[Javascript](https://github.com/mohameml/javascript)
+## 12.[Javascript](https://github.com/mohameml/javascript)
 
 <a href="https://github.com/mohameml/javascript" target="_blank" rel="noreferrer"> <img src="../.images/JS.png" alt="c" width="40" height="40"/> </a>
 
