@@ -18,9 +18,9 @@
 <a href="https://github.com/mohameml/java" target="_blank" rel="noreferrer"> <img src="../.images/java.png" alt="c" width="40" height="40"/> </a>
 
 
-## 5.[SQL](https://github.com/mohameml/SQL)
+## 5.[MySQL](https://github.com/mohameml/MySQL)
 
-<a href="https://github.com/mohameml/SQL" target="_blank" rel="noreferrer"> <img src="../.images/sql.png" alt="c" width="40" height="40"/> </a>
+<a href="https://github.com/mohameml/MySQL" target="_blank" rel="noreferrer"> <img src="../.images/mysql.png" alt="c" width="40" height="40"/> </a>
 
 
 ## 6.[UML](https://github.com/mohameml/UML)
