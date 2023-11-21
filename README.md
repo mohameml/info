@@ -62,3 +62,17 @@
     
     <a href="06_full-stack/" target="_blank" rel="noreferrer">full-stack</a>
 
+
+## 6. [Gestion des Données](08_gestion_données/)
+
+- **Déscription:**
+    
+    - **La gestion de données:** englobe un ensemble de processus, de techniques et d'outils visant à organiser, stocker, récupérer et manipuler des informations de manière efficace et cohérente. Cela inclut la gestion de bases de données, de fichiers, de flux de données, et d'autres formes de données au sein d'un environnement informatique.
+
+- **lien:**
+    
+    <a href="08_gestion_données/" target="_blank" rel="noreferrer">Gestion des Données</a>
+
+
+
+
