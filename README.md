@@ -60,5 +60,5 @@
 
 - **lien:**
     
-    <a href="(06_full-stack/" target="_blank" rel="noreferrer">full-stack</a>
+    <a href="06_full-stack/" target="_blank" rel="noreferrer">full-stack</a>
 
