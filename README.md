@@ -49,3 +49,16 @@
 
 
 
+## 6. [full-stack](06_full-stack/)
+
+- **Déscription:**
+    
+    - Le terme **full-stack** se réfère à la compétence et à la capacité d'un individu à travailler sur toutes les parties d'une application logicielle, de la conception du frontend à la mise en œuvre du backend. 
+    
+    
+    - **Un développeur full-stack:** est capable de comprendre et de contribuer à tous les aspects d'un projet informatique, y compris le développement du côté client (frontend), le développement du côté serveur (backend), la gestion de bases de données, le déploiement, et plus encore.
+
+- **lien:**
+    
+    <a href="(06_full-stack/" target="_blank" rel="noreferrer">full-stack</a>
+
