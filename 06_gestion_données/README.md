@@ -10,6 +10,6 @@
 
 - **lien:**
 
-    <a href="01_SQL/" target="_blank" rel="noreferrer">SGBD</a>
+    - <a href="01_SQL/" target="_blank" rel="noreferrer">SGBD</a>
 
 ## 2. **`gestion de BD NoSQL:`**
