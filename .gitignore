@@ -1,23 +1,15 @@
-01_développement_logiciel/*
-!01_développement_logiciel/READEM.md
-!01_développement_logiciel/01_programmation/READEM.md
-!01_développement_logiciel/01_Dev_web/READEM.md
-!01_développement_logiciel/01_Dev_web/01_frontend/READEM.md
+01_programmation/*
 
-02_info_théorique/*
-!02_info_théorique/README.md
+02_développement_logiciel/*
 
+03_info_théorique/*
 
+04_Systèmes_Informatiques/*
 
-03_Systèmes_Informatiques/*
-!03_Systèmes_Informatiques/READEM.md
+05_Réseaux_et_Sécurité_informatique/*
 
+06_gestion_données/*
 
-04_Réseaux_et_Sécurité_informatique/*
+07_intelligence_artificielle/*
 
-05_gestion_données
-!05_gestion_données/READEM.md
-
-06_intelligence_artificielle/*
-
-09_sumlation/
+09_sumlation/*
