@@ -36,8 +36,6 @@
     L'informatique théorique est une branche de l'informatique qui se consacre à l'étude abstraite des concepts fondamentaux, des modèles et des principes qui sous-tendent le domaine de l'informatique. Elle se penche sur des questions fondamentales relatives à la computation, à la complexité des algorithmes et à la formalisation des langages et des automates. 
 
 
-
-
 - **lien:**
     
     - <a href="https://github.com/mohameml/info/tree/main/03_info_th%C3%A9orique" target="_blank" rel="noreferrer">informatique théorique</a>
@@ -77,7 +75,7 @@
 
 - **lien:**
     
-    <a href="https://github.com/mohameml/info/tree/main/06_gestion_donn%C3%A9es" target="_blank" rel="noreferrer">Gestion des Données</a>
+    - <a href="https://github.com/mohameml/info/tree/main/06_gestion_donn%C3%A9es" target="_blank" rel="noreferrer">Gestion des Données</a>
 
 
 
@@ -89,5 +87,4 @@
 
 - **lien:**
     
-    <a href="https://github.com/mohameml/info/tree/main/07_intelligence_artificielle" target="_blank" rel="noreferrer">IA</a>
-    
+    - <a href="https://github.com/mohameml/info/tree/main/07_intelligence_artificielle" target="_blank" rel="noreferrer">IA</a>
