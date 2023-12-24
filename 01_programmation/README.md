@@ -78,24 +78,47 @@
     <img src="https://github.com/mohameml/images/blob/main/langages/mysql.png" alt="c" width="40" height="40"/> 
 </a>
 
+## 12.[SQLite](https://github.com/mohameml/SQLite)
 
-## 12.[UML](https://github.com/mohameml/UML)
+<a href="https://github.com/mohameml/SQLite" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/mohameml/images/blob/main/langages/sqlite.png" alt="c" width="100" height="100"/> 
+</a>
+
+
+## 13.[Oracle](https://github.com/mohameml/Oracle)
+
+<a href="https://github.com/mohameml/Oracle" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/mohameml/images/blob/main/langages/oracle.png" alt="c" width="100" height="100"/> *
+</a>
+
+## 14.[UML](https://github.com/mohameml/UML)
 
 <a href="https://github.com/mohameml/UML" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/mohameml/images/blob/main/langages/uml.png" alt="c" width="40" height="40"/> 
 </a>
 
 
-
-## 13.[assembleur](https://github.com/mohameml/assembleur)
+## 15.[assembleur](https://github.com/mohameml/assembleur)
 
 <a href="https://github.com/mohameml/assembleur" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/mohameml/images/blob/main/langages/assembly.svg" alt="c" width="40" height="40"/> 
 </a>
 
 
-## 14. [R](https://github.com/mohameml/R)
+## 16. [R](https://github.com/mohameml/R)
 
 <a href="https://github.com/mohameml/R" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/mohameml/images/blob/main/langages/R.png" alt="c" width="40" height="40"/> 
+</a>
+
+## 16. [Shell](https://github.com/mohameml/shell)
+
+<a href="https://github.com/mohameml/shell" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/mohameml/images/blob/main/langages/bash.png" alt="c" width="40" height="40"/> 
+</a>
+
+## 16. [VHDL](https://github.com/mohameml/VHDL)
+
+<a href="https://github.com/mohameml/VHDL" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/mohameml/images/blob/main/langages/VHDL.png" alt="c" width="40" height="40"/> 
 </a>
