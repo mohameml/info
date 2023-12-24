@@ -68,7 +68,29 @@
     - <a href="" target="_blank" rel="noreferrer">gestion_PGL</a>
 
 
-## 7.  **Devops:**
+
+## 7. documenation :    
+
+- **Description:**
+
+    La documentation en développement logiciel est une pratique essentielle visant à créer des descriptions claires et détaillées de toutes les composantes d'un projet, de la conception à son déploiement. Son importance réside dans la facilitation de la compréhension du code, la simplification de la maintenance, la promotion de la collaboration efficace entre les membres de l'équipe, la transmission des connaissances, la communication avec les utilisateurs, et la conformité aux normes réglementaires. Des outils couramment utilisés pour la documentation incluent Javadoc et Doxygen pour générer des documents à partir du code source, Swagger pour la documentation d'API, Confluence et Wiki pour la collaboration, Markdown pour la création de documents structurés, GitBook pour la génération de livres en ligne, et Asciidoc pour convertir du texte brut en différents formats de documentation. La documentation efficace est un investissement essentiel qui améliore la productivité et la qualité du développement logiciel.
+
+- **lien:**
+
+    - <a href="" target="_blank" rel="noreferrer">docs</a>
+
+
+## 8. **Testing:** 
+
+- **Description:**
+    Le testing en développement logiciel est une pratique cruciale visant à évaluer la qualité d'un logiciel en identifiant et corrigeant les erreurs potentielles. Son importance réside dans l'assurance de la fiabilité du logiciel, la validation des fonctionnalités, la réduction des coûts liés à la maintenance, et l'amélioration de la confiance des utilisateurs. Les tests, qu'ils soient unitaires, d'intégration, fonctionnels, de charge ou de performance, utilisent des outils tels que JUnit, PyTest, Selenium, Postman, Jenkins, Cypress, LoadRunner, et d'autres, pour garantir la qualité et la robustesse des logiciels tout au long de leur cycle de vie.
+
+- **lien:**
+
+    - <a href="" target="_blank" rel="noreferrer">Testing</a>
+
+
+## 9.  **Devops:**
 
 
 - **Description:**
@@ -80,7 +102,7 @@
 
     - <a href="" target="_blank" rel="noreferrer">Devops</a>
 
-## 8. **Projet génie logicel:**
+## 10. **Projet génie logicel:**
 
 - **Description:**
 
