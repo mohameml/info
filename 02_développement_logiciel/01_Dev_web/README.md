@@ -17,7 +17,7 @@
 
 - **lien:**
 
-    <a href="" target="_blank" rel="noreferrer">front-end</a>
+    <a href="https://github.com/mohameml/info/tree/main/02_d%C3%A9veloppement_logiciel/01_Dev_web/01_frontend" target="_blank" rel="noreferrer">front-end</a>
 
 
 ## 2. **`back-end`:**
@@ -33,4 +33,4 @@
 
 - **lien:**
 
-    <a href="" target="_blank" rel="noreferrer">back-end</a>
+    <a href="https://github.com/mohameml/info/tree/main/02_d%C3%A9veloppement_logiciel/01_Dev_web/02_backend" target="_blank" rel="noreferrer">back-end</a>
